@@ -1,0 +1,7 @@
+C:\Dev\Way2\Way2\bin\Debug\Way2.exe.config
+C:\Dev\Way2\Way2\bin\Debug\Way2.exe
+C:\Dev\Way2\Way2\bin\Debug\Way2.pdb
+C:\Dev\Way2\Way2\obj\Debug\Way2.csprojAssemblyReference.cache
+C:\Dev\Way2\Way2\obj\Debug\Way2.csproj.CoreCompileInputs.cache
+C:\Dev\Way2\Way2\obj\Debug\Way2.exe
+C:\Dev\Way2\Way2\obj\Debug\Way2.pdb
